@@ -1,0 +1,126 @@
+#result#result {
+  filter: hue-rotate(300deg);
+}
+#result#result * {
+  font-family: Candara !important;
+}
+.math.math * {
+  font-family: monospace !important;
+  font-weight: normal;
+}
+#result#result h1,
+#result#result h2,
+#result#result h3,
+#result#result h4,
+#result#result h5,
+#result#result h6 {
+  font-family: 'High Tower Text' !important;
+  letter-spacing: 0.5px;
+}
+#result#result .head h4 {
+  margin: 0.2rem 0;
+}
+#result#result .head p {
+  font-family: 'Harrington (Plain)', Harrington !important;
+}
+#result#result .left h1,
+#result#result .right h1 {
+  font-size: 1.35rem;
+  font-weight: bold;
+}
+#result#result h1,
+#result#result .head p {
+  color: #640050 !important;
+}
+#result#result h2,
+#result#result .content h2 {
+  color: #8c0067 !important;
+}
+#result#result h3,
+#result#result .content #result#result h3 {
+  color: #640050 !important;
+}
+#result#result h4 {
+  color: #640050 !important;
+}
+#result#result .content h1 {
+  color: #488d25 !important;
+  font-weight: bold;
+}
+#result#result .content h4 {
+  background: #5d003c !important;
+  color: #ffaad5 !important;
+  font-size: 1.2rem;
+  padding: 0.3rem 0 0.45rem 0.7rem;
+}
+#result#result .info h2,
+#result#result .info h3,
+#result#result .info h4 {
+  color: #ffaad5 !important;
+}
+#result#result .info {
+  background: #5d003c !important;
+}
+#result#result .rules {
+  background: #f0d3e6 !important;
+}
+#result#result .note {
+  background: #d1b1c6 !important;
+}
+.fa.fa,
+.fas.fas {
+  font-family: 'Font Awesome 5 Pro' !important;
+  color: #ff00e0 !important;
+}
+#result#result .math {
+  background: #ead8e4 !important;
+  border-top: 2px solid #e0c0db !important;
+  border-bottom: 2px solid #e0c0db !important;
+}
+#result#result .page thead tr th {
+  background: #5d0040 !important;
+}
+#result#result .page tbody tr:nth-child(odd) {
+  background: #edc7e7de;
+}
+#result#result .page tbody tr:nth-child(even) {
+  background: #edc7e722;
+}
+#result#result .tfoot {
+  background: #e6b0dd !important;
+}
+#result#result .left,
+#result#result .right {
+  color: #5d0056 !important;
+  border-color: #5d0056 !important;
+}
+#result#result .pf-trait {
+  background: #5d0056 !important;
+  margin-right: 0.2rem;
+  margin-bottom: 0.2rem;
+  padding: 0.25rem 0.5rem 0.15rem;
+  border: none;
+  border-radius: 4px;
+}
+#result#result .pf-trait-uncommon {
+  background: #98503c !important;
+}
+#result#result .pf-trait-rare {
+  background: #08503c !important;
+}
+#result#result .pf-trait-edge {
+  display: none !important;
+}
+.btn-light-h220 {
+  color: #de88df !important;
+}
+.btn-light-h220:hover {
+  color: #fbfcfe !important;
+  background-color: #de88df !important;
+  border-color: #de88df !important;
+}
+@media (max-width: 900px) {
+  #result#result .bg-paper {
+    background: #eee url(/assets/paper.jpg) !important;
+  }
+}

@@ -2,6 +2,9 @@
   <head>
     <link rel="stylesheet" type="text/css" href="baseline.css" />
     <link rel="stylesheet" type="text/css" href="custom.css" />
+    <link rel="stylesheet" type="text/css" href="popup/popup.css" />
+    <script type="module" src="popup/popup.js"></script>
+    <script type="module" src="interaction/interaction.js"></script>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -10,6 +13,25 @@
   </head>
 
   <body style="background: #000;">
+    <div id="legal-header">
+      This website uses trademarks and/or copyrights owned by Paizo Inc., which
+      are used under Paizo's Community Use Policy. We are expressly prohibited
+      from charging you to use or access this content. This website is not
+      published, endorsed, or specifically approved by Paizo Inc. For more
+      information about Paizo's Community Use Policy, please visit
+      <a href="https://paizo.com/communityuse">paizo.com/communityuse</a>. For
+      more information about Paizo Inc. and Paizo products, please visit
+      <a href="https://paizo.com">paizo.com</a>
+      <p id="clicky">Click here for full license</p>
+      <button id="legal-close" class="close">×</button>
+    </div>
+
+    <div id="legalese-backdrop" class="backdrop">
+      <div id="legalese-popup" class="popup" onclick="event.stopPropagation()">
+        <button id="legalese-popup-close" class="close">×</button>
+      </div>
+    </div>
+
     <div style="max-width: 800px; margin: 1rem auto;" id="result">
       <div>
         <div

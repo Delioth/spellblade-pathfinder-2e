@@ -1,5 +1,32 @@
+#legal-header {
+  background-color: #bab6d4;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  padding: 0.3rem;
+  width: 100%;
+  border-radius: 0 0 0.5rem 0.5rem;
+  color: #121575 !important;
+  z-index: 1;
+  font-size: 10px;
+}
+#legal-header #clicky {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.close {
+  position: relative;
+  font-size: 1.8rem;
+  bottom: 1.5rem;
+}
+
+.hide {
+  display: none;
+}
+
 #result#result {
   filter: hue-rotate(300deg);
+  margin-top: 3rem;
 }
 #result#result * {
   font-family: Candara !important;

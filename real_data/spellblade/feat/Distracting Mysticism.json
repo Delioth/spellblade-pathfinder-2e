@@ -1,0 +1,18 @@
+{
+  "_id": "spellblade/feat/Distracting Mysticism",
+  "title": "Distracting Mysticism",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:16:05.310Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "spellblade"
+  ],
+  "actions": "none",
+  "level": 12,
+  "markdown": "When you hit and deal damage with a Magical Strike, you may reduce the extra damage by 1 die to cause the target to become flat-footed until the start of your next turn.",
+  "frequency": "",
+  "prerequisites": "",
+  "trigger": ""
+}

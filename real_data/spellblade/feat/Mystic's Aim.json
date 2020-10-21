@@ -1,0 +1,18 @@
+{
+  "_id": "spellblade/feat/Mystic's Aim",
+  "title": "Mystic's Aim",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:07:16.795Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "energizing 1",
+    "magical",
+    "spellblade",
+    "Concentrate"
+  ],
+  "actions": "two",
+  "level": 10,
+  "markdown": "You gather mystic power to guide your attack. Make a Strike with a +2 circumstance bonus to the attack roll. For this Strike, ignore the target's concealed condition."
+}

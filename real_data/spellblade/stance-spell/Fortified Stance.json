@@ -1,0 +1,23 @@
+{
+  "title": "Fortified Stance",
+  "type": "stance-spell",
+  "context": "spellblade",
+  "lastreq": "2020-09-22T04:15:07.089Z",
+  "version": "0.4.0",
+  "traits": [
+    "uncommon",
+    "abjuration",
+    "earth",
+    "stance"
+  ],
+  "requirements": "You are touching the ground",
+  "prerequisites": "",
+  "trigger": "",
+  "level": "1",
+  "cast_time": "one",
+  "components": "somatic",
+  "passive": "You create a shell of hardened stone, gaining resistance 2 to bludgeoning, piercing, and slashing damage.",
+  "active": "Raise the Bulwarks",
+  "exit": "When you are damaged by an attack or effect which deals bludgeoning, piercing, or slashing damage; you may spend a reaction and all your energized to reduce the triggering effect's damage by 3 times the energized spent.",
+  "_id": "spellblade/stance-spell/Fortified Stance"
+}

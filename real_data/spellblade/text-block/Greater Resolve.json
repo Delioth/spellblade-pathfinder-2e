@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Greater Resolve",
+  "title": "Greater Resolve",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:58:32.858Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 15,
+  "markdown": "Your unbelievable training grants you impressive mental resiliency. Your proficiency rank for Will saves increases to legendary. When you roll a success for a Will save, you get a critical success. When you roll a critical failure for a Will save, you get a failure instead. When you roll a failure on a Will save against a damaging effect, you take half damage."
+}

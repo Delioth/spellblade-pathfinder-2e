@@ -1,0 +1,9 @@
+{
+  "title": "Spending Energized",
+  "type": "note",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:26:00.726Z",
+  "version": "0.1.0",
+  "markdown": "Some features or feats refer to \"spending\" Energized. When a feature calls for you to spend Energized, you reduce your current Energized condition by that amount to gain the benefit described. So if Oni is currently Energized 3, and uses a feat which requires him to spend 2 Energized, he would lower his Energized condition by 2 to become Energized 1 to gain the feat's benefits.",
+  "_id": "spellblade/note/Spending Energized"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Discipline",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:21:08.277Z",
+  "version": "0.1.0",
+  "markdown": "Every spellblade has some discipline, the forms they were taught to fight with along with their primary source of power. Your discipline gives you a selection of initial stances, determines the tradition of your cantrips and focus spells, grants a way to interact with the Energized condition, and allows you to select feats tied to your discipline.",
+  "titletype": "h3",
+  "_id": "spellblade/text-block/Discipline"
+}

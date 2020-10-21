@@ -1,0 +1,10 @@
+{
+  "title": "Cantrips",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:24:17.136Z",
+  "version": "0.5.0",
+  "markdown": "You draw upon the power of your Discipline for some basic magical tasks. You can cast cantrips using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting cantrips. You do not gain spell slots. Your spell attack and DC proficiency is the same as your proficiency rank in your spellblade class DC, but your casting ability is determined by your Discipline.\r\n\r\nYou can cast your cantrips at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up.\r\n\r\nYou learn 2 cantrips, chosen from the tradition your Discipline grants.",
+  "titletype": "h3",
+  "_id": "spellblade/text-block/Cantrips"
+}

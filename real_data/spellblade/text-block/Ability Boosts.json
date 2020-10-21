@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Ability Boosts",
+  "title": "Ability Boosts",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:41:46.610Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 5,
+  "markdown": "At 5th level and every 5 levels thereafter, you boost four different ability scores. You can use these ability boosts to increase your ability scores above 18. Boosting an ability score increases it by 1 if it's already 18 or above, or by 2 if it starts below 18."
+}

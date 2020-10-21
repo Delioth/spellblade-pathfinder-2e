@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Indomitable Will",
+  "title": "Indomitable Will",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:44:48.729Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 7,
+  "markdown": "Your discipline makes it difficult to shake or control you. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead."
+}

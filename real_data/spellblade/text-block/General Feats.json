@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/General Feats",
+  "title": "General Feats",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:37:23.850Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 3,
+  "markdown": "At 3rd level and every 4 levels therafter, you gain a general feat. General feats are listed in Chapter 5 of the Pathfinder 2nd Edition Core Rulebook."
+}

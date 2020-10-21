@@ -1,0 +1,10 @@
+{
+  "title": "Magical Strike",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:23:22.947Z",
+  "version": "0.1.0",
+  "markdown": "You gain the Magical Strike action, which allows you to strike with a magic-infused weapon or unarmed attack.",
+  "titletype": "h3",
+  "_id": "spellblade/text-block/Magical Strike"
+}

@@ -1,0 +1,121 @@
+{
+  "_id": "spellblade",
+  "pages": [
+    {
+      "head": {
+        "type": "text-block",
+        "entry": "Spellblade",
+        "context": "spellblade"
+      },
+      "sidebarR": {
+        "type": "sidebar",
+        "entry": "Proficiencies",
+        "context": "spellblade"
+      },
+      "main": {
+        "columns": 1,
+        "content": [
+          {
+            "type": "text-block",
+            "entry": "Playing a Spellblade",
+            "context": "spellblade"
+          },
+          {
+            "type": "text-block",
+            "entry": "Roleplaying a Spellblade",
+            "context": "spellblade"
+          },
+          {
+            "type": "text-block",
+            "entry": "Class Features",
+            "context": "spellblade"
+          },
+          {
+            "type": "text-block",
+            "entry": "Ancestry and Background",
+            "context": "spellblade"
+          },
+          {
+            "type": "text-block",
+            "entry": "Initial Proficiencies",
+            "context": "spellblade"
+          },
+          {
+            "type": "text-block",
+            "entry": "Discipline",
+            "context": "spellblade"
+          },
+          {
+            "type": "note",
+            "entry": "Important Mechanics",
+            "context": "spellblade"
+          }
+        ]
+      }
+    },
+    {
+      "main": {
+        "columns": 2,
+        "content": [
+          {
+            "type": "text-block",
+            "entry": "Magical Strike",
+            "context": "spellblade"
+          },
+          {
+            "type": "feat",
+            "entry": "Magical Strike",
+            "context": "spellblade"
+          },
+          {
+            "type": "text-block",
+            "entry": "Cantrips",
+            "context": "spellblade"
+          },
+          {
+            "type": "note",
+            "entry": "Spending Energized",
+            "context": "spellblade"
+          },
+          {
+            "type": "text-block",
+            "entry": "Eldritch Forms",
+            "context": "spellblade"
+          },
+          {
+            "type": "text-block",
+            "entry": "Eldritch Stance Cantrips",
+            "context": "spellblade"
+          }
+        ]
+      }
+    },
+    {
+      "main": {
+        "columns": 2,
+        "content": [
+          {
+            "type": "stance-spell",
+            "entry": "Fortified Stance",
+            "context": "spellblade"
+          },
+          {
+            "type": "spell",
+            "entry": "Raise the Bulwarks",
+            "context": "spellblade"
+          },
+          {
+            "type": "discipline",
+            "entry": "Magus",
+            "context": "spellblade"
+          },
+          {
+            "context": "undefined",
+            "type": "stance-spell",
+            "entry": "Precognition Stance"
+          }
+        ]
+      }
+    }
+  ]
+}

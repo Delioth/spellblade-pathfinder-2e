@@ -1,0 +1,19 @@
+{
+  "_id": "spellblade/feat/Bespell Weapon",
+  "title": "Bespell Weapon",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:22:19.537Z",
+  "source": "Pathfinder 2nd Edition Core Rulebook, plus Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "spellblade"
+  ],
+  "level": 4,
+  "markdown": "You siphon the residual energy from the last spell you cast into one weapon you're wielding. Until the end of your turn, the weapon deals an extra 1d6 damage of a type depending on the school of the spell you just cast.\n\n- **Abjuration** force damage\n- **Conjuration or Transmutation** the same type as the weapon\n- **Divination, Enchantment, or Illusion** mental damage\n- **Evocation** a type the spell dealt, or force damage if the spell didn't deal damage\n- **Necromancy** negative or positive damage\n---\n**Special** When you use Magical Strike while this feat is in effect, instead increase your magical strike damage by 1d8",
+  "actions": "free",
+  "trigger": "",
+  "requirements": "Your most recent action was to cast a non-cantrip spell.",
+  "frequency": "once per turn",
+  "prerequisites": ""
+}

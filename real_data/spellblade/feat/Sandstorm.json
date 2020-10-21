@@ -1,0 +1,17 @@
+{
+  "_id": "spellblade/feat/Sandstorm",
+  "title": "Sandstorm",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:03:48.727Z",
+  "source": "Delioth Homebrew",
+  "version": "0.3.1",
+  "traits": [
+    "spellblade",
+    "conjuration",
+    "earth",
+    "air"
+  ],
+  "level": 1,
+  "markdown": "You bring forth the desert's wrath to harry your enemies. You gain the *sandstorm stance* eldritch stance cantrip, and the *clinging sand* focus spell."
+}

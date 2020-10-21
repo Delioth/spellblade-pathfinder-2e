@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Greater Weapon Specialization",
+  "title": "Greater Weapon Specialization",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:57:13.299Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 15,
+  "markdown": "Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary."
+}

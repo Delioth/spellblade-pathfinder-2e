@@ -1,0 +1,15 @@
+{
+  "_id": "spellblade/feat/Blade Arts",
+  "title": "Blade Arts",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:36:26.641Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 3,
+  "markdown": "Spend 5 energized to avoid paying the focus cost of the triggering focus spell.",
+  "actions": "free",
+  "trigger": "You cast a Focus Spell",
+  "requirements": "You are Energized 5 or more"
+}

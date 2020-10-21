@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Prowess",
+  "title": "Prowess",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:43:56.238Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 5,
+  "markdown": "Your skill and fervor make your weapons deadly. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert. While you are Energized 2 or more, or when making a Magical Strike, you gain access to the critical specialization effects for your weapons and unarmed attacks."
+}

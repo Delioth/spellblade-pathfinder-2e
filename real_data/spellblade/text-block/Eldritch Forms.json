@@ -1,0 +1,10 @@
+{
+  "title": "Eldritch Forms",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:25:06.066Z",
+  "version": "0.1.0",
+  "markdown": "As a spellblade, you rely on special stances and forms to harness and refine magical energy in a way completely distinct from the standard repertoire of spellcasters. Eldritch stances are a special type of spell that are also a stance. Eldritch stances are usually cantrips, though some may be noted as focus spells. When an Eldritch stance is a focus spell, it costs 1 Focus Point to cast the stance. Most Eldritch stances will also grant you access to cast a focus spell when you leave the stance and stop channeling that stance's form.\r\n\r\nYou start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to drill the basic forms or meditate on your Discipline.\r\n\r\nFocus Spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear in the Pathfinder 2nd Edition Core Rulebook.",
+  "titletype": "h3",
+  "_id": "spellblade/text-block/Eldritch Forms"
+}

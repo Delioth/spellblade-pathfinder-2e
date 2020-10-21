@@ -1,0 +1,26 @@
+{
+  "title": "Raise the Bulwarks",
+  "type": "spell",
+  "context": "spellblade",
+  "lastreq": "2020-09-22T14:40:37.334Z",
+  "version": "0.2.0",
+  "traits": [
+    "uncommon",
+    "conjuration",
+    "earth",
+    "eldritch"
+  ],
+  "requirements": "You are in Fortified Stance",
+  "prerequisites": "",
+  "trigger": "",
+  "level": "1",
+  "cast_time": "two",
+  "components": "somatic",
+  "target": "",
+  "duration": "",
+  "save": "",
+  "focus": "on",
+  "markdown": "You create or mold earth to create a squat, defensible palisade. Along the edge of the burst, a short wall is formed, which provides Cover to those inside the circle. Crossing the wall from the outside is Greater Difficult Terrain. All allies within the burst may Take Cover as a reaction when you cast this spell.\r\n\r\n---\r\n\r\n**Heightened (+2)** You may increase the burst by 5 feet.",
+  "area": "10-foot burst",
+  "_id": "spellblade/spell/Raise the Bulwarks"
+}

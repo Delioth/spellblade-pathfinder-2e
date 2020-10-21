@@ -1,0 +1,9 @@
+{
+  "title": "Important Mechanics",
+  "type": "note",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:22:48.305Z",
+  "version": "0.1.0",
+  "markdown": "As part of Spellblade, I'm introducing two related mechanics; the Energizing trait and the Energized condition.\r\n\r\n**Energizing**: the Energizing trait always comes with a value. When you take an action with the energizing trait, increase your Energized condition by the value of the Energizing condition. \r\n\r\n**Energized**: The Energized condition  stacks up. It can be used for various Spellblade features. Any effects which give you a specific value of Energized increase your Energized condition by that amount. The Energized condition is removed when you leave Encounter mode.",
+  "_id": "spellblade/note/Important Mechanics"
+}

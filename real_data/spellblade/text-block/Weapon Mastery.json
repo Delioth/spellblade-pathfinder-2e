@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Weapon Mastery",
+  "title": "Weapon Mastery",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:55:57.156Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 13,
+  "markdown": "You fully understand weaving blades with magic. Your proficiency ranks for simple and martial weapons and unarmed attacks increase to master."
+}

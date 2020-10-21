@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Expert Fundamentals",
+  "title": "Expert Fundamentals",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:52:28.295Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 9,
+  "markdown": "You have a maximum of 4 Energized. Your proficiency ranks for your Spellblade class DC, spellblade spell attacks, and spellblade spell DC increase to Expert."
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Spellblade Feats",
+  "title": "Spellblade Feats",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:34:13.485Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 2,
+  "markdown": "At 2nd level and every even-numbered level, you gain a spellblade class feat. Spellblade class feats are described later in this document."
+}

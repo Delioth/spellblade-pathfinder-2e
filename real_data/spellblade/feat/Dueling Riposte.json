@@ -1,0 +1,19 @@
+{
+  "_id": "spellblade/feat/Dueling Riposte",
+  "title": "Dueling Riposte",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:31:34.332Z",
+  "source": "Pathfinder 2nd Edition Core Rulebook",
+  "version": "",
+  "traits": [
+    "spellblade"
+  ],
+  "level": 8,
+  "markdown": "You riposte against your flailing enemy. Make a melee Strike or attempt to Disarm the triggering creature.",
+  "actions": "reaction",
+  "trigger": "A creature within your reach critically fails a Strike against you",
+  "requirements": "You are benefitting from Dueling Parry",
+  "frequency": "",
+  "prerequisites": "Dueling Parry"
+}

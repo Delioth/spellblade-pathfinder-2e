@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Blade Arts",
+  "title": "Blade Arts",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:35:11.147Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 3,
+  "markdown": "At 3rd level, you gain the *blade arts* free action, which allows you to substitute your energized condition for a focus point."
+}

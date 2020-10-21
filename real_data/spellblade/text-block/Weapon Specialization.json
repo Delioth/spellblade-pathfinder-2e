@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Weapon Specialization",
+  "title": "Weapon Specialization",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:45:32.868Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 7,
+  "markdown": "You deal an additional 2 damage with weapons and unarmed attacks in which you have expert proficiency. This damage increases to 3 if you're a master, and 4 if you're legendary."
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Eldritch Stance Cantrips",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:25:41.460Z",
+  "version": "0.1.0",
+  "markdown": "Most Eldritch stances are special eldritch cantrips that don't cost focus points, so you can enter them as often as you like. Eldritch cantrips are in addition to the cantrips you choose from your discipline's spell list. Generally, only feats can give you more Eldritch stance cantrips. You learn the *elementary stance* Eldritch stance cantrip, which spends your energized condition to increase your damage.",
+  "titletype": "h4",
+  "_id": "spellblade/text-block/Eldritch Stance Cantrips"
+}

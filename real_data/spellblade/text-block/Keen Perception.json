@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Keen Perception",
+  "title": "Keen Perception",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:56:28.382Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 13,
+  "markdown": "You've developed a keen awareness and attention to detail. Your proficiency rank for perception increases to master."
+}

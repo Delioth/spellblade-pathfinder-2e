@@ -1,0 +1,19 @@
+{
+  "_id": "spellblade/feat/Basic Spellcasting",
+  "title": "Basic Spellcasting",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:16:45.099Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "spellblade"
+  ],
+  "level": 4,
+  "markdown": "You have learned the fundamentals of casting canonical spells.\n\nYou are a spontaneous caster, and gain a spell repertoire with one 1st level spell from your discipline's spell tradition. Each time you gain a spell slot from spellblade feats, add a spell of the appropriate spell level to your repertoire: a common spell of your discipline's tradition, or another spell you have learned or discovered. If you have the Warpriest discipline and chose a deity, you may also choose from your deity's granted spells.\n\nYou gain a 1st level spell slot. When you reach 6th level, you gain a 2nd level spell slot, and may select one spell as a signature spell. When you reach 8th level, you gain a 3rd level spell slot.",
+  "actions": "none",
+  "trigger": "",
+  "requirements": "",
+  "frequency": "",
+  "prerequisites": ""
+}

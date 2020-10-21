@@ -1,0 +1,17 @@
+{
+  "_id": "spellblade/feat/Storm Blade",
+  "title": "Storm Blade",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:02:32.918Z",
+  "source": "Delioth Homebrew",
+  "version": "0.3.0",
+  "traits": [
+    "spellblade",
+    "electricity",
+    "evocation",
+    "air"
+  ],
+  "level": 1,
+  "markdown": "You use your magical prowess to channel the power of the storm through your blade. You gain the *storm blade stance* eldritch stance cantrip and the *charged sheathe* focus spell."
+}

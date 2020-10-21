@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Skill Feats",
+  "title": "Skill Feats",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:33:54.063Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 2,
+  "markdown": "At 2nd level and every 2 levels thereafter, you gain a skill feat. Skill feats appear in Chapter 5 of the Pathfinder 2nd Edition Core Rulebook and have the skill trait. You must be trained or better in the corresponding skill to select a skill feat."
+}

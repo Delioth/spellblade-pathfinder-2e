@@ -1,0 +1,28 @@
+{
+  "title": "Precognition Stance",
+  "type": "stance-spell",
+  "context": "spellblade",
+  "lastreq": "2020-09-24T03:21:50.970Z",
+  "source": "Delioth Homebrew",
+  "version": "0.2.0",
+  "traits": [
+    "divination",
+    "uncommon",
+    "prediction",
+    "stance"
+  ],
+  "level": 1,
+  "cast_time": "one",
+  "components": [
+    "somatic"
+  ],
+  "passive": "At the start of your turn, you may roll your Magical Strike damage. If you use Magical Strike during that turn, you must use the damage you rolled.",
+  "active": "True Strike",
+  "exit": "Spend all your Energized and make a Magical Strike. You gain a circumstance bonus to hit equal to half the energized spent (minimum 0). If you hit, you may roll the damage twice, taking whichever result you prefer.",
+  "exit_time": "one",
+  "exit_traits": [
+    "divination",
+    "prediction"
+  ],
+  "_id": "spellblade/stance-spell/Precognition Stance"
+}

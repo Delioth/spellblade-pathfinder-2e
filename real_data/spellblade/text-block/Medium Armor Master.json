@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Medium Armor Master",
+  "title": "Medium Armor Master",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:00:07.566Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 19,
+  "markdown": "Your skill with armor improves, increasing your ability to evade and block blows. Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master."
+}

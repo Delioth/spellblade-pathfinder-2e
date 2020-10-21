@@ -1,0 +1,16 @@
+{
+  "_id": "spellblade/feat/Breakneck",
+  "title": "Breakneck",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:08:52.365Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "spellblade"
+  ],
+  "actions": "free",
+  "level": 10,
+  "markdown": "You pinch time or use your raw magical energy to boost your speed. Immediately Stride, Strike, or use an action with the Stance trait. At the end of your turn, you are stunned 1.",
+  "frequency": "Once per minute"
+}

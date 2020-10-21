@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Medium Armor Expertise",
+  "title": "Medium Armor Expertise",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:55:14.413Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 11,
+  "markdown": "You've learned to defend yourself better against attacks. Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert."
+}

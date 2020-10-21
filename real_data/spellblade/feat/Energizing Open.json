@@ -1,0 +1,19 @@
+{
+  "_id": "spellblade/feat/Energizing Open",
+  "title": "Energizing Open",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:26:04.082Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "spellblade"
+  ],
+  "level": 6,
+  "markdown": "You become Energized 1",
+  "actions": "free",
+  "trigger": "You roll initiative",
+  "requirements": "",
+  "frequency": "",
+  "prerequisites": ""
+}

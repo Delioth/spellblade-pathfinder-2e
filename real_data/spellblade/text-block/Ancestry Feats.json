@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Ancestry Feats",
+  "title": "Ancestry Feats",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:42:42.986Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 5,
+  "markdown": "In addition to the ancestry feat you started with, you gain an ancestry feat at 5th level and every 4 levels thereafter. The list of ancestry feats available to you can be found in your ancestry's entry."
+}

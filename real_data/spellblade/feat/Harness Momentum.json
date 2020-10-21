@@ -1,0 +1,16 @@
+{
+  "_id": "spellblade/feat/Harness Momentum",
+  "title": "Harness Momentum",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:05:57.888Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "press",
+    "spellblade"
+  ],
+  "level": 2,
+  "markdown": "You draw the energy out of your own missed swing. Make a Strike. This Strike gains the following failure effect.\n\n**Failure** You gain Energized 1",
+  "actions": "one"
+}

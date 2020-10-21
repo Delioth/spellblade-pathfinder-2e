@@ -1,0 +1,18 @@
+{
+  "title": "Magical Strike",
+  "type": "feat",
+  "lastreq": "2020-09-23T23:56:35.847Z",
+  "traits": [
+    "spellblade",
+    "concentrate",
+    "magical",
+    "flourish",
+    "energizing 1"
+  ],
+  "version": "0.3.0",
+  "actions": "one",
+  "feature": true,
+  "level": 1,
+  "markdown": "You infuse an attack with magical power. Make a Strike with a weapon or unarmed attack. This Strike deals an additional 1d8 damage of the same type as the attack’s base damage. Many Spellblade Stances may change this effect's damage type, or give other secondary uses or effects to it.",
+  "_id": "undefined/feat/Magical Strike"
+}

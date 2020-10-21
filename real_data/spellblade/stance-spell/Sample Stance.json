@@ -1,0 +1,28 @@
+{
+  "title": "Sample Stance",
+  "type": "stance-spell",
+  "context": "spellblade",
+  "lastreq": "2020-09-24T03:24:41.065Z",
+  "source": "Delioth Homebrew",
+  "version": "xxx",
+  "traits": [
+    "unique",
+    "stance",
+    "",
+    ""
+  ],
+  "level": 1,
+  "cast_time": "one",
+  "components": [
+    "somatic"
+  ],
+  "passive": "This is a benefit you get just by being in this stance",
+  "active": "This is a reference to a focus spell you can cast while in this stance.",
+  "exit": "This is an action or activity which you may use to exit this stance, spending all your energized.",
+  "exit_time": "one",
+  "exit_traits": [
+    "",
+    ""
+  ],
+  "_id": "spellblade/stance-spell/Sample Stance"
+}

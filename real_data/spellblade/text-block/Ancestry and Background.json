@@ -1,0 +1,10 @@
+{
+  "title": "Ancestry and Background",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:20:28.154Z",
+  "version": "0.1.0",
+  "markdown": "In addition to theen abilities provided by your class at 1st level, you have the benefits of your selected ancestry and background, as described in Chapter 2.",
+  "titletype": "h3",
+  "_id": "spellblade/text-block/Ancestry and Background"
+}

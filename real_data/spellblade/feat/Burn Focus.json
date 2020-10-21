@@ -1,0 +1,16 @@
+{
+  "_id": "spellblade/feat/Burn Focus",
+  "title": "Burn Focus",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:06:46.245Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "concentrate",
+    "spellblade"
+  ],
+  "level": 2,
+  "markdown": "Spend 1 focus point. Your energized condition is set to the highest you can hold.",
+  "actions": "one"
+}

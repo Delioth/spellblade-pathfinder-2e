@@ -1,0 +1,17 @@
+{
+  "_id": "spellblade/feat/Mystic Focus",
+  "title": "Mystic Focus",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:13:16.551Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "spellblade"
+  ],
+  "actions": "none",
+  "level": 12,
+  "markdown": "Your wellspring of magical power is deep. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1. Increase the number of Focus Points in your focus pool by 1.",
+  "frequency": "",
+  "prerequisites": ""
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Initial Proficiencies",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:20:48.240Z",
+  "version": "0.1.0",
+  "markdown": "At 1st level you gain a number of proficiencies that represent your basic training. These proficiencies are noted in the sidebar there ==>",
+  "titletype": "h3",
+  "_id": "spellblade/text-block/Initial Proficiencies"
+}

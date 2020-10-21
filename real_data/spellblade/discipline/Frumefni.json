@@ -1,0 +1,16 @@
+{
+  "_id": "spellblade/discipline/Frumefni",
+  "title": "Frumefni",
+  "type": "discipline",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T04:10:56.404Z",
+  "source": "Delioth Homebrew",
+  "traits": ["air", "earth", "fire", "water"],
+  "ability": "wisdom",
+  "tradition": "primal",
+  "exit_time": "one",
+  "exit_name": "Primal Bounding",
+  "exit": "With a burst of winds, a shove from a stone, or some other propulsion, you launch yourself through the air. Leave your stance and spend all your energized. Leap up to 10 feet per energized spent, or Stride your Speed with a status bonus to your speed equal to 5 times the energized spent. You may Swim, Climb, Fly, or Burrow instead of Striding if you have the appropriate speed",
+  "exit_traits": ["water", "fire", "primal", "earth", "air"],
+  "description": "The Frumefni are a sect of primal magic users who harness the nearly-wild magic that powers all spellblades to wield the traditional elements."
+}

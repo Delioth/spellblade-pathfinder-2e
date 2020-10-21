@@ -1,0 +1,21 @@
+{
+  "_id": "spellblade/feat/Binding Strike",
+  "title": "Binding Strike",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:29:05.816Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "flourish",
+    "magical",
+    "spellblade"
+  ],
+  "level": 8,
+  "markdown": "You wreathe your weapon or unarmed attack in magical energy meant to bind an enemy. Make a Strike. If you hit and deal damage, the foe must make a Fortitude save against your Spell DC. On a failure, the foe is Grabbed by magical energy. This lasts for as long as you Sustain this effect (using the Sustain a Spell action) or until they successfully Escape against your spell DC. ",
+  "actions": "two",
+  "trigger": "",
+  "requirements": "",
+  "frequency": "",
+  "prerequisites": ""
+}

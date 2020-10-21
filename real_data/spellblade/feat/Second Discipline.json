@@ -1,0 +1,19 @@
+{
+  "_id": "spellblade/feat/Second Discipline",
+  "title": "Second Discipline",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:30:12.084Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "spellblade"
+  ],
+  "level": 8,
+  "markdown": "You branch out to the teachings of a second discipline. Choose a second discipline and gain that discipline's exit action.",
+  "actions": "none",
+  "trigger": "",
+  "requirements": "",
+  "frequency": "",
+  "prerequisites": ""
+}

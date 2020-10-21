@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Great Fortitude",
+  "title": "Great Fortitude",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:46:07.462Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 9,
+  "markdown": "Your physique is incredibly hardy. Your proficiency rank for Fortitude saves increases to expert."
+}

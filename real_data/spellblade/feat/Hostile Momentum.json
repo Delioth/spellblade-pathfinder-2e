@@ -1,0 +1,17 @@
+{
+  "_id": "spellblade/feat/Hostile Momentum",
+  "title": "Hostile Momentum",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:09:08.111Z",
+  "source": "Delioth Homebrew",
+  "version": "0.2.0",
+  "traits": [
+    "Energizing 1",
+    "spellblade"
+  ],
+  "level": 2,
+  "markdown": "You steal the energy from a hostile assault. In addition to gaining energized, the enemy who attacked you takes your minimum Magical Strike damage.",
+  "actions": "reaction",
+  "trigger": "An enemy critically fails an attack against you"
+}

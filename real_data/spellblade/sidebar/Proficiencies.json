@@ -1,0 +1,9 @@
+{
+  "title": "Proficiencies",
+  "type": "sidebar",
+  "context": "spellblade",
+  "lastreq": "2020-09-10T01:22:03.686Z",
+  "version": "0.1.0",
+  "markdown": "## Key Ability\r\nStrength, Dexterity, or Other\r\n\r\n\r\n## Hit Points\r\n8 plus your Constitution Modifier\r\n\r\n\r\n## Proficiencies\r\n\r\n### Perception\r\nExpert\r\n\r\n\r\n### Saving Throws\r\nTrained in Fortitude\r\n\r\nExpert in Reflex\r\n\r\nExpert in Will\r\n\r\n\r\n### Skills\r\nTrained in one skill determined by your Discipline\r\n\r\nTrained in a number of additional skills equal to 3 plus your Intelligence modifier\r\n\r\n\r\n### Attacks\r\n\r\nTrained in simple weapons\r\n\r\nTrained in martial weapons\r\n\r\nTrained in unarmed attacks\r\n\r\n\r\n### Defenses\r\n\r\nTrained in light armor\r\n\r\nTrained in medium armor\r\n\r\nTrained in unarmored defense\r\n\r\n\r\n### Class DC\r\n\r\nTrained in spellblade class DC\r\n\r\nTrained in Spell Attacks & DCs \r\n\r\n",
+  "_id": "spellblade/sidebar/Proficiencies"
+}

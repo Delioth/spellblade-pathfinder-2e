@@ -1,0 +1,22 @@
+{
+  "_id": "spellblade/feat/Feed on Fear",
+  "title": "Feed on Fear",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:11:52.578Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "emotion",
+    "energizing 1",
+    "fear",
+    "mental",
+    "spellblade"
+  ],
+  "level": 4,
+  "markdown": "You Energize from the fear of nearby enemies. Choose one hostile creature within 30 feet with the frightened condition. The target cannot reduce their frightened condition below 1 until the start of your next turn.",
+  "actions": "one",
+  "trigger": "",
+  "requirements": "",
+  "frequency": "Once per round"
+}

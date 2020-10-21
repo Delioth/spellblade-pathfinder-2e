@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Bladespells",
+  "title": "Bladespells",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:00:34.231Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 19,
+  "markdown": "Your every movement weaves magic from your weapon. Strike gains the Energizing 1 trait for you."
+}

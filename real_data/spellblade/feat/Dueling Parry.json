@@ -1,0 +1,17 @@
+{
+  "_id": "spellblade/feat/Dueling Parry",
+  "title": "Dueling Parry",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:10:21.537Z",
+  "source": "Pathfinder 2nd Edition Core Rulebook",
+  "version": "",
+  "traits": [
+    "spellblade"
+  ],
+  "level": 2,
+  "markdown": "You can parry attacks against you with your one-handed weapon. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirements.",
+  "actions": "one",
+  "trigger": "",
+  "requirements": "You are wielding only a single one-handed melee weapon and have your other hand or hands free"
+}

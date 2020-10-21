@@ -1,0 +1,19 @@
+{
+  "_id": "spellblade/feat/Sacred Energy",
+  "title": "Sacred Energy",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:14:05.179Z",
+  "source": "Delioth Homebrew",
+  "version": "0.2.0",
+  "traits": [
+    "spellblade"
+  ],
+  "level": 4,
+  "markdown": "The power of your faith bolsters your power. When you make a magical strike, you may instead deal chaotic, evil, good, or lawful damage for your magical strike dice. This damage must match one of your deity's alignment components.",
+  "actions": "none",
+  "trigger": "",
+  "requirements": "",
+  "frequency": "",
+  "prerequisites": "You follow a deity"
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Skill Increases",
+  "title": "Skill Increases",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:39:47.319Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 3,
+  "markdown": "At 3rd level and every 2 levels therafter, you gain a skill increase. You can use this increase either to increase your proficiency rank to trained in one skill you're untrained in, or to increase your proficiency rank in one skill in which you're already trained to expert.\n\nAt 7th level, you can use skill increases to increase your proficiency rank to master in a skill in which you're already an expert, and at 15th level, you can use them to increase your proficiency rank to legendary in a skill in which you're already a master."
+}

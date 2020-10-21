@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Master Fundamentals",
+  "title": "Master Fundamentals",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:59:22.886Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 17,
+  "markdown": "You can have up to 5 energized. Your proficiency ranks for your spellblade class DC, spellblade spell attacks, and spellblade spell DC increase to master"
+}

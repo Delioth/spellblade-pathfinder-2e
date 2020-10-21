@@ -1,0 +1,30 @@
+{
+  "_id": "spellblade/stance-spell/Storm Blade Stance",
+  "title": "Storm Blade Stance",
+  "type": "stance-spell",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:40:20.348Z",
+  "source": "Delioth Homebrew",
+  "version": "0.3.0",
+  "traits": [
+    "uncommon",
+    "eldritch",
+    "air",
+    "stance",
+    "electricity"
+  ],
+  "cast_time": "one",
+  "components": [
+    "somatic"
+  ],
+  "focus": false,
+  "level": 1,
+  "passive": "You coerce electrical currents to guide your allies' attacks. You may Aid an ally making an attack with a metal weapon or electricity spell even if you haven’t prepared to do so. The target of this attack must be within 10 feet.",
+  "active": "Charged Sheathe",
+  "exit": "**Requirement** Your last action dealt electricity damage; **Effect** You surge power through the same pathways once more, causing a blinding flash. Spend all your energized and leave your stance. All enemies which you dealt electricity damage to with the required action must make a Fortitude save against your spell DC or be dazzled for 1 round (2 rounds on critical failure). Foes take a penalty to this save equal to half the energized you spend (minimum 0).",
+  "exit_time": "one",
+  "exit_traits": [
+    "electricity",
+    "visual"
+  ]
+}

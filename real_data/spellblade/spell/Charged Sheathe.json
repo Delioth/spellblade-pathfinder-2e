@@ -1,0 +1,23 @@
+{
+  "_id": "spellblade/spell/Charged Sheathe",
+  "title": "Charged Sheathe",
+  "type": "spell",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T04:23:02.058Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "air",
+    "electricity",
+    "uncommon"
+  ],
+  "level": 1,
+  "cast_time": "two",
+  "components": [
+    "verbal",
+    "somatic"
+  ],
+  "focus": true,
+  "markdown": "You sheathe your weapon or body in surging electricity. Make a Strike. You may replace all the physical damage this Strike deals with electricity damage. If you hit and deal damage, any attacks with metal weapons and electricity spells gain a +1 circumstance bonus to hit this target, and the target takes a -1 circumstance penalty on saves against electricity effects.\n\n---\n**Heightened (+4)** Increase the circumstance bonus and penalty by 1.",
+  "duration": "1 minute"
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "spellblade/discipline/Magus",
+  "title": "Magus",
+  "type": "discipline",
+  "context": "spellblade",
+  "lastreq": "2020-09-23T03:17:59.461Z",
+  "source": "Delioth Homebrew",
+  "version": "0.2.1",
+  "traits": [
+    "evocation",
+    "transmutation",
+    "abjuration",
+    "conjuration"
+  ],
+  "ability": "intelligence",
+  "tradition": "arcane",
+  "description": "A master of weaving your blade arts into spells, you bend arcane might to your will. You gain the *Magus Augment* metamagic.",
+  "exit": "If the next action you use is to Cast a Spell, spend all your Energized and leave your stance. In addition to the spell's normal effect, you may deal your Magical Strike damage to one target, or allow one target's next Strike to gain your Magical Strike damage.",
+  "exit_name": "Magus Augment",
+  "exit_time": "free",
+  "exit_traits": [
+    "metamagic"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "spellblade/feat/Overwhelming Energy",
+  "title": "Overwhelming Energy",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:11:18.260Z",
+  "source": "Pathfinder 2nd Edition Core Rulebook, plus Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "manipulate",
+    "magical",
+    "spellblade"
+  ],
+  "actions": "one",
+  "level": 10,
+  "markdown": "You alter your spells to overcome resistances. If the next action you use is to Cast a Spell, the spell ignores an amount of the target’s resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by wall of fire. A creature's immunities are unaffected.\n\n**Special** You may also take this action to gain its benefits for all actions granted by stances until the start of your next turn.",
+  "frequency": ""
+}

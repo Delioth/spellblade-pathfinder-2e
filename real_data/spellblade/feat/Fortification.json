@@ -1,0 +1,16 @@
+{
+  "_id": "spellblade/feat/Fortification",
+  "title": "Fortification",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:04:51.020Z",
+  "source": "Delioth Homebrew",
+  "version": "0.3.0",
+  "traits": [
+    "spellblade",
+    "abjuration",
+    "earth"
+  ],
+  "level": 1,
+  "markdown": "You use the earth itself to fortify yourself and your position. You gain the *fortified stance* eldritch stance cantrip, and the *raise the bulwarks* focus spell."
+}

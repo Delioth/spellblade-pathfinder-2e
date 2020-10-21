@@ -1,0 +1,18 @@
+{
+  "_id": "spellblade/feat/Stance Savant",
+  "title": "Stance Savant",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:14:29.238Z",
+  "source": "Pathfinder 2nd Edition Core Rulebook plus Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "spellblade"
+  ],
+  "actions": "free",
+  "level": 12,
+  "markdown": "You enter a stance without a thought. Cast an eldritch stance cantrip.",
+  "frequency": "",
+  "prerequisites": "",
+  "trigger": "You roll initiative."
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "spellblade/feat/Steady Spellcasting",
+  "title": "Steady Spellcasting",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:27:10.745Z",
+  "source": "Pathfinder 2nd Edition Core Rulebook",
+  "version": "",
+  "traits": [
+    "spellblade"
+  ],
+  "level": 6,
+  "markdown": "Confident in your technique, you don't easily lose your concentration when you Cast a Spell. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn't disrupted.",
+  "actions": "none",
+  "trigger": "",
+  "requirements": "",
+  "frequency": "",
+  "prerequisites": ""
+}

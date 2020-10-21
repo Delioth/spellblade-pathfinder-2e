@@ -1,0 +1,12 @@
+{
+  "_id": "spellblade/text-block/Evasion",
+  "title": "Evasion",
+  "type": "text-block",
+  "context": "spellblade",
+  "lastreq": "2020-10-06T23:54:02.043Z",
+  "source": "Delioth Homebrew",
+  "titletype": "h3",
+  "feature": true,
+  "level": 11,
+  "markdown": "You've learned to move quickly to avoid explosions, dragons' breath, and worse. Your proficiency rank for Reflex Saves increases to master. When you roll a success on a Reflex save, you get a critical success instead."
+}

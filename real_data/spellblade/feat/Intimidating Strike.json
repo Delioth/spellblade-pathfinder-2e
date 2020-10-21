@@ -1,0 +1,18 @@
+{
+  "_id": "spellblade/feat/Intimidating Strike",
+  "title": "Intimidating Strike",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-07T00:07:56.841Z",
+  "source": "Pathfinder 2nd Edition Core Rulebook",
+  "version": "",
+  "traits": [
+    "mental",
+    "emotion",
+    "fear",
+    "spellblade"
+  ],
+  "level": 2,
+  "markdown": "Your blow not only wounds creatures but also shatters their confidence. Make a melee Strike. If you hit and deal damage, the target is frightened 1, or frightened 2 on a critical hit.",
+  "actions": "two"
+}

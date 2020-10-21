@@ -1,0 +1,17 @@
+{
+  "_id": "spellblade/feat/Advanced Spellcasting",
+  "title": "Advanced Spellcasting",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:12:06.929Z",
+  "source": "Delioth Homebrew",
+  "version": "0.2.1",
+  "traits": [
+    "spellblade"
+  ],
+  "actions": "none",
+  "level": 10,
+  "markdown": "You gain a 4th level spell slot, and may choose a second signature spell. At 12th level you gain a 5th level spell slot. At 14th level you gain a 6th level spell slot.",
+  "frequency": "",
+  "prerequisites": "Basic Spellcasting"
+}

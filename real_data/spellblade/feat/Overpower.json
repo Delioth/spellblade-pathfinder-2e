@@ -1,0 +1,17 @@
+{
+  "_id": "spellblade/feat/Overpower",
+  "title": "Overpower",
+  "type": "feat",
+  "context": "spellblade",
+  "lastreq": "2020-10-08T03:06:00.599Z",
+  "source": "Delioth Homebrew",
+  "version": "0.1.0",
+  "traits": [
+    "metamagic",
+    "spellblade",
+    "Concentrate"
+  ],
+  "actions": "one",
+  "level": 2,
+  "markdown": "**Cost** 3 Energized\n\nYou pour raw magic into a spell. If your next action is to Cast a Spell without the Eldritch trait, you gain a +1 circumstance bonus to your spell attack or DC. If the spell calls for attacks or saves on subsequent turns, this bonus only applies until the start of your next turn."
+}

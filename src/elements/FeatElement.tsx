@@ -17,6 +17,7 @@ export interface FeatElementProps
   frequency?: string;
   requirements?: string;
   prerequisites?: string;
+  cost?: string;
   trigger?: string;
 }
 
@@ -32,6 +33,7 @@ export const FeatElement: FC<FeatElementProps> = ({
   frequency,
   requirements,
   prerequisites,
+  cost,
   trigger,
 }) => {
   return (
@@ -49,6 +51,11 @@ export const FeatElement: FC<FeatElementProps> = ({
       {frequency && frequency !== '' && (
         <Box>
           <b>Frequency</b> {frequency}
+        </Box>
+      )}
+      {cost && cost !== '' && (
+        <Box>
+          <b>Cost</b> {cost}
         </Box>
       )}
       {requirements && requirements !== '' && (

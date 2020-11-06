@@ -7,12 +7,13 @@ export interface SidebarElementProps
   extends Omit<MinimalElement, 'type' | 'context' | 'title'> {
   markdown: string;
   side: 'left' | 'right';
+  fullWidth?: boolean;
 }
 
-const baseSidebarStyles = {
+const baseSidebarStyles = (fullwidth: boolean) => ({
   borderColor: 'gray',
-  width: '30%',
-};
+  width: fullwidth ? '100%' : '30%',
+});
 
 const sidebarTheme: (t: Theme) => Theme = (t) => ({
   ...t,
@@ -76,16 +77,16 @@ const sidebarTheme: (t: Theme) => Theme = (t) => ({
 
 const BORDER_SIZE = '1px';
 
-const SidebarElement: FC<SidebarElementProps> = ({ markdown, side }) => {
+const SidebarElement: FC<SidebarElementProps> = ({ markdown, side, fullWidth }) => {
   if (side === 'right') {
     return (
       <Box
         px={3}
         sx={{
-          ...baseSidebarStyles,
+          ...baseSidebarStyles(fullWidth),
           borderLeftStyle: 'solid',
           borderLeftWidth: BORDER_SIZE,
-          float: 'right',
+          float: 'right'
         }}
       >
         <ThemeProvider theme={sidebarTheme}>
@@ -98,7 +99,7 @@ const SidebarElement: FC<SidebarElementProps> = ({ markdown, side }) => {
     <Box
       px={3}
       sx={{
-        ...baseSidebarStyles,
+        ...baseSidebarStyles(fullWidth),
         borderRightStyle: 'solid',
         borderRightWidth: BORDER_SIZE,
         float: 'left',

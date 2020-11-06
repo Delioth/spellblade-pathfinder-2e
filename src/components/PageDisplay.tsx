@@ -1,14 +1,14 @@
 import React, { FC } from 'react';
-import { Box, Divider, Flex, Grid } from 'theme-ui';
+import { Box, Divider, Flex } from 'theme-ui';
 import SidebarElement from '../elements/SidebarElement';
 import { TextBlockElement } from '../elements/TextBlockElement';
-import { ResolvedPageConfig } from '../pages/[context]';
+import { ResolvedPageConfig } from '../util/contextTypes';
 import { HeaderType } from '../util/getTitle';
 import Element from './ElementDisplay';
 
 type PageDisplayProps = ResolvedPageConfig;
 
-const PageDisplay: FC<PageDisplayProps> = ({ head, sidebarR, main }) => {
+const PageDisplay: FC<PageDisplayProps> = ({ head, sidebarR, sidebarL, main }) => {
   return (
     <Box
       sx={{
@@ -31,8 +31,9 @@ const PageDisplay: FC<PageDisplayProps> = ({ head, sidebarR, main }) => {
         </>
       )}
       {sidebarR && <SidebarElement side="right" markdown={sidebarR.markdown} />}
+      {sidebarL && <SidebarElement side="left" markdown={sidebarL.markdown} />}
       <Flex sx={{ flexDirection: 'column', flexWrap: 'wrap', height: '100%' }}>
-        {main.content.map((element, i) => {
+        {main?.content.map((element, i) => {
           return (
             <Flex
               key={i}

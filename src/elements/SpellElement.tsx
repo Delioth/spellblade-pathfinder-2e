@@ -8,9 +8,10 @@ import { Box, Divider } from 'theme-ui';
 export interface SpellElementProps
   extends Omit<MinimalElement, 'type' | 'context'> {
   traits: string[];
-  requirements: string;
-  prerequisites: string;
-  trigger: string;
+  requirements?: string;
+  prerequisites?: string;
+  cost?: string;
+  trigger?: string;
   level: number;
   cast_time: ActionType;
   components: string;
@@ -24,6 +25,7 @@ export const SpellElement: FC<SpellElementProps> = ({
   traits = [],
   requirements,
   prerequisites,
+  cost,
   trigger,
   level,
   cast_time,
@@ -46,6 +48,11 @@ export const SpellElement: FC<SpellElementProps> = ({
       <Box>
         <b>Cast </b>[{cast_time}] {components}
       </Box>
+      {cost && cost !== '' && (
+        <Box>
+          <b>Cost</b> {cost}
+        </Box>
+      )}
       {requirements && (
         <Box>
           <b>Requirements</b> {requirements}

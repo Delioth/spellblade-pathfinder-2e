@@ -45,7 +45,7 @@ const createDirectoryPath = async (
   const newFullPath = priorPath ? `${priorPath}/${nextPath}` : nextPath;
   try {
     await mkdir(newFullPath);
-  } catch {}
+  } catch { }
   if (paths.length) {
     return await createDirectoryPath(paths, newFullPath);
   }

@@ -7,10 +7,10 @@ import { HTML5Backend } from 'react-dnd-html5-backend';
 const CollectingName = createContext<string[]>([]);
 const useCollect = (addition?: string) => {
   const name = useContext(CollectingName);
-  if(addition) return [...name, addition];
+  if (addition) return [...name, addition];
   return name;
 }
-const Named = ({name, children}) => {
+const Named = ({ name, children }) => {
   const fullname = useCollect(name);
   return <CollectingName.Provider value={fullname}>{children}</CollectingName.Provider>
 }
@@ -45,42 +45,48 @@ export type ElementTreeViewProps = {
 
 const DragDropContext = createContext({ drag: false, drop: false });
 
-const ElementView: FC<MinimalElement> = ({ title }) => {
+const ElementView: FC<MinimalElement & { index: number }> = ({ title, index, ...props }) => {
   const id = useCollect(title)
   const { drag: doesDrag, drop: doesDrop } = useContext(DragDropContext);
   const [, drag] = useDrag(
     doesDrag ? { item: { type: 'ELEMENT', id } } : null
   );
+  const [, ref] = useDrop({
+    accept: 'ELEMENT',
+    drop: (e, b) => console.log(`PAPA I GOT A DROP: ${id.join('/')} -- ${index} `, e, b),
+  });
+
 
   return (
-    <div
-      ref={drag}
-      style={{
-        backgroundColor: 'blue',
-        padding: '0.5rem',
-        borderRadius: '0.5rem',
-        margin: '0.5rem',
-        height: '2.5rem',
-      }}
-      onClick={(event) => {
-        event.stopPropagation();
-      }}
-    >
-      {title}
-    </div>
+    <div ref={ref}>
+      <div
+        ref={drag}
+        style={{
+          backgroundColor: 'blue',
+          padding: '0.5rem',
+          borderRadius: '0.5rem',
+          margin: '0.5rem',
+          height: '2.5rem',
+        }}
+        onClick={(event) => {
+          event.stopPropagation();
+        }}
+      >
+        {title}
+      </div></div>
   );
 };
 
 const TypeView: FC<TypeViewProps> = ({ name, tree }) => {
   const [open, set] = useState(false);
-  const { drop } = useContext(DragDropContext);
-  const [collectedProps, ref] = useDrop({
-    accept: 'ELEMENT',
-    drop: (e, b) => console.log("DROP: ", e, b),
-  });
+  // const { drop } = useContext(DragDropContext);
+  // const [collectedProps, ref] = useDrop({
+  //   accept: 'ELEMENT',
+  //   drop: (e, b) => console.log("DROP: ", e, b),
+  // });
 
   return (
-    <Box ref={ref}>
+    <Box>
       <Box
         bg="infoBackground"
         p={2}
@@ -113,8 +119,8 @@ const TypeView: FC<TypeViewProps> = ({ name, tree }) => {
           overflow: 'hidden',
         }}
       >
-        {Object.keys(tree).map((key) => (
-          <Named name={name}key={key}><ElementView {...tree[key]} /></Named>
+        {Object.keys(tree).map((key, idx) => (
+          <Named name={name} key={key}><ElementView {...tree[key]} index={idx} /></Named>
         ))}
       </Box>
     </Box>
@@ -162,7 +168,7 @@ const ContextView: FC<ContextViewProps> = ({ name, tree }) => {
       >
         {Object.keys(tree).map((key) => (
           <Named name={name} key={key}>
-            <TypeView  name={key} tree={tree[key]} />
+            <TypeView name={key} tree={tree[key]} />
           </Named>
         ))}
       </Box>
